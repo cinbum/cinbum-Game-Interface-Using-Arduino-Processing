@@ -1,4 +1,4 @@
-# cinbum-Game-Interface-Using-Arduino-Processing
+# Arduino와 Processing을 이용한 Game Interface 
 
 ## 프로젝트 소개
 
